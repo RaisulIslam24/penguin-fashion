@@ -24,7 +24,7 @@ h3{
 .penguin-card-footer{
     background-color: white;
     border: 0;
-}
+} 
 .smalling{
     width: 74%;
     margin: auto;
@@ -34,6 +34,16 @@ h3{
     margin: auto;
 }
 .smalling2{
-    width: 58%;
+    width: 80%;
     margin: auto;
+}
+.smalling3{
+    width: 73%;
+    margin: auto;
+}
+.Logo img{
+    width: 70%;
+}
+footer{
+    text-align: center;
 }
