@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+button{
+    background-color: rgb(142, 173, 16);
+    border: none;
+}
+header{
+    background-color: #FFFBF0;
+}
+h5{
+    font-weight: bold;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.smalling{
+    width: 74%;
+    margin: auto;
+}
+.smalling1{
+    width: 80%;
+    margin: auto;
+}
