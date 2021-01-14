@@ -12,8 +12,11 @@ button{
 header{
     background-color: #FFFBF0;
 }
-h5{
+h5, h3{
     font-weight: bold;
+}
+h3{
+    color: #FABE4C;
 }
 .penguin-card{
     border: 0;
@@ -28,5 +31,9 @@ h5{
 }
 .smalling1{
     width: 80%;
+    margin: auto;
+}
+.smalling2{
+    width: 58%;
     margin: auto;
 }
